@@ -1,4 +1,4 @@
-# Instructions
+# Instructions - Assignment for Dashtoon AI
 
 Download the Dataset you want to train the model on.
 
